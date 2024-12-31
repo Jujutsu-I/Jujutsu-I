@@ -1,16 +1,20 @@
-## Hi there 👋
+# Jujutsu Infinite Script
+An updated version of the Jujutsu Infinite Script is now available for free. This version  introduces new features and has been optimized for all types of Android devices.
 
-<!--
-**Jujutsu-I/Jujutsu-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✅ Jujutsu Infinite Script - [View Code](https://dlgram.com/NcDUU)**
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💎 Key Features:
+
+✔️ Auto Farm Cash
+
+✔️ Auto Farm Xp
+
+✔️ Auto Farm Mob
+
+✔️ Auto Farm Boss
+
+✔️ WalkSpeed
+
+✔️ JumpPower And More! 
